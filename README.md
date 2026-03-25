@@ -91,4 +91,20 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 
 #### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Bills_Recharge.png
 
+## 🛠️ Tools & Technologies Used
 
+### Power BI
+
+### Data Cleaning & Transformation
+### Data Visualization
+### DAX (Data Analysis Expressions)
+
+#### 📈 Key Insights
+#### ✅ Majority transactions are successful (~95–96%)
+#### 💼 Loans & Insurance contribute highest revenue
+#### ❌ Common failure reasons:
+##### Wrong PIN
+##### Server Error
+##### Insufficient Balance
+
+### 📊 Monthly trends show consistent growth with fluctuations
