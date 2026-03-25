@@ -27,7 +27,6 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 
 #### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Home.png
 
-
 ## 🛡️ Insurance Dashboard
 
 ### 💰 Total Amount: 512.92M
@@ -43,3 +42,19 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 #### ❌ Failure reasons: Wrong PIN, Server Error, etc.
 
 #### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Insurance.png
+
+## 💳 Loan Dashboard
+
+### 💰 Total Amount: 2,532.51M
+
+### Loan Types:
+
+#### Gold Loan
+#### Auto Loan
+#### Mutual Funds
+#### Credit Score
+
+### 📈 Monthly loan distribution trends
+#### 📊 High-value transaction insights
+
+#### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Loan.png
