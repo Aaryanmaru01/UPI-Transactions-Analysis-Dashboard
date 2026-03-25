@@ -78,7 +78,7 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 
 ## 📱 Recharge & Bills Dashboard
 
-###Services:
+### Services:
 
 #### Electricity
 #### DTH
@@ -89,6 +89,6 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 ### 📈 Monthly usage trends
 ### ❌ Failure reason breakdown
 
-#### Link- Bills & Recharge- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Bills_Recharge.png
+#### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Bills_Recharge.png
 
 
