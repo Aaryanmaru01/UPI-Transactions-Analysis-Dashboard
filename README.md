@@ -27,6 +27,7 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 
 #### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Home.png
 
+
 ## 🛡️ Insurance Dashboard
 
 ### 💰 Total Amount: 512.92M
