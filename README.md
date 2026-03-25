@@ -1,2 +1,28 @@
 # UPI-Transactions-Analysis-Dashboard
-Power BI dashboard analyzing PhonePe transactions including payments, insurance, loans, and recharge services with insights on success rate, failures, and monthly trends.
+
+📊 PhonePe Analytics Dashboard
+
+This project is an interactive Power BI Dashboard that analyzes digital payment data similar to PhonePe. It provides insights into transactions, failures, services, and financial trends.
+
+🚀 Features
+📅 Date Range Filter for dynamic analysis
+💰 Total Amount & Transactions Overview
+✅ Payment Success vs Failed Analysis
+❌ Failed Payment Reasons Breakdown
+📈 Monthly Trends (Date vs Amount)
+🔍 Service-wise Insights
+
+📂 Dashboard Sections
+
+🏠 1. Home Dashboard
+Total Amount: 50.69M
+Total Transactions: 12K+
+Payment Success Rate: 96%
+Key Services:
+Electricity
+DTH
+Mobile
+Cable TV
+Monthly transaction trend visualization
+
+#Link-
