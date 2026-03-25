@@ -20,10 +20,10 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 #### Payment Success Rate: 96%
 #### Key Services:
 #### Electricity
-####DTH
-####Mobile
-####Cable TV
-####Monthly transaction trend visualization
+#### DTH
+#### Mobile
+#### Cable TV
+#### Monthly transaction trend visualization
 
-####Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Home.png
+#### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Home.png
 
