@@ -58,3 +58,37 @@ This project is an interactive Power BI Dashboard that analyzes digital payment 
 #### 📊 High-value transaction insights
 
 #### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Loan.png
+
+## 💸 Transaction Dashboard
+
+### 💰 Total Amount: 362.95M
+### 🔢 Total Transactions: 143,963
+### ✅ Success Rate: ~96%
+
+### Transfer Types:
+
+#### UPI ID
+#### Self Account
+#### QR Code
+#### Mobile Transfer
+
+### 📈 Monthly transaction analysis
+
+#### Link- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Transection.png
+
+## 📱 Recharge & Bills Dashboard
+
+###Services:
+
+#### Electricity
+#### DTH
+#### Mobile
+#### Cable TV
+
+### 📊 Service-wise amount comparison
+### 📈 Monthly usage trends
+### ❌ Failure reason breakdown
+
+#### Link- Bills & Recharge- https://github.com/Aaryanmaru01/UPI-Transactions-Analysis-Dashboard/blob/main/Bills_Recharge.png
+
+
